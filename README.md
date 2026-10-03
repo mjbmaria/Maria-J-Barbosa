@@ -17,7 +17,7 @@ no_momento = {
         "Desenvolvimento em C/C++ e Python"
     ]
 }
-
+´´´
 ===
 
 ### Linguagens
