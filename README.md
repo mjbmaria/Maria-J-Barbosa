@@ -3,11 +3,8 @@
 <img src="https://github.com/user-attachments/assets/c5a2d59b-ef19-4587-b868-d5f8bc534dec" height="35" align="center"> **Engenharia da Computação** — CIn/UFPE
 
 
-===========================================
 
 ## ⤷   $\textcolor{#D8B4FE}{\text{O que ando fazendo!}}$ 
-
-Meu foco atual é explorar como integrar a capacidade visual que câmeras e displays conseguem oferecer ao mundo físico em um sistema embarcado.
 
 > [!IMPORTANT]
 > **Foco Atual:** Explorar como integrar a capacidade visual que câmeras e displays oferecem ao mundo físico em sistemas embarcados.
