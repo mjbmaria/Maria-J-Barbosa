@@ -4,7 +4,7 @@
 
 ===========================================
 
-## ⤷ $\textcolor{#C77DFF}{\text{O que ando fazendo!}}$ 
+## ⤷  $\textcolor{#D8B4FE}{\text{O que ando fazendo!}}$ 
 
 Meu foco atual é explorar como integrar a capacidade visual que câmeras e displays conseguem oferecer ao mundo físico em um sistema embarcado.
 
