@@ -12,11 +12,11 @@ Meu foco atual é explorar como integrar a capacidade visual que câmeras e disp
 > [!IMPORTANT]
 > **Foco Atual:** Explorar como integrar a capacidade visual que câmeras e displays oferecem ao mundo físico em sistemas embarcados.
 >
-> * **Área principal:** Sistemas Embarcados & Visão Computacional[cite: 4]
-> * **Projetos:**[cite: 4]
->   * Processamento de imagem em microcontroladores[cite: 4]
->   * Integração de câmeras e displays em hardware[cite: 4]
->   * Desenvolvimento em C/C++ e Python[cite: 4]
+> * **Área principal:** Sistemas Embarcados & Visão Computacional
+> * **Projetos:**
+>   * Processamento de imagem em microcontroladores
+>   * Integração de câmeras e displays em hardware
+>   * Desenvolvimento em C/C++ e Python
 
 #
 
