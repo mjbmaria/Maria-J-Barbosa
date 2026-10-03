@@ -2,7 +2,7 @@
 
 🎓 Engenharia da Computação — CIn/UFPE  
 
-===
+===========================================
 
 ## O que ando fazendo!
 
