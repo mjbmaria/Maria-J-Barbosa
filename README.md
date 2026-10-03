@@ -18,8 +18,7 @@ Meu foco atual é explorar como integrar a capacidade visual que câmeras e disp
 >   * Integração de câmeras e displays em hardware
 >   * Desenvolvimento em C/C++ e Python
 
-
-===========================================
+#
 
 ### ᯓ Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
