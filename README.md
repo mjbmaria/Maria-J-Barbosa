@@ -9,16 +9,14 @@
 
 Meu foco atual é explorar como integrar a capacidade visual que câmeras e displays conseguem oferecer ao mundo físico em um sistema embarcado.
 
-```python
-no_momento = {
-    "foco": "Sistemas Embarcados & Visão Computacional",
-    "projetos": [
-        "Processamento de imagem em microcontroladores",
-        "Integração de câmeras e displays em hardware",
-        "Desenvolvimento em C/C++ e Python"
-    ]
-}
-```
+> [!NOTE]
+> **Foco Atual:** Explorar como integrar a capacidade visual que câmeras e displays oferecem ao mundo físico em sistemas embarcados.
+>
+> * **Área principal:** Sistemas Embarcados & Visão Computacional
+> * **Projetos:**
+>   * Processamento de imagem em microcontroladores
+>   * Integração de câmeras e displays em hardware
+>   * Desenvolvimento em C/C++ e Python
 ===========================================
 
 ### ᯓ Linguagens
