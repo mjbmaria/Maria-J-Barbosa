@@ -1,4 +1,4 @@
-# Olá, eu sou a $\textcolor{purple}{\text{Maria J. Barbosa}}$
+# Olá, eu sou a  $\textcolor{purple}{\text{Maria J. Barbosa}}$
 
 🎓 Engenharia da Computação — CIn/UFPE  
 
