@@ -9,6 +9,7 @@
 
 Meu foco atual é explorar como integrar a capacidade visual que câmeras e displays conseguem oferecer ao mundo físico em um sistema embarcado.
 
+> [!IMPORTANT]
 > **Foco Atual:** Explorar como integrar a capacidade visual que câmeras e displays oferecem ao mundo físico em sistemas embarcados.
 >
 > * **Área principal:** Sistemas Embarcados & Visão Computacional[cite: 4]
