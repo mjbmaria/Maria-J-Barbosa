@@ -17,6 +17,8 @@ Meu foco atual é explorar como integrar a capacidade visual que câmeras e disp
 >   * Processamento de imagem em microcontroladores
 >   * Integração de câmeras e displays em hardware
 >   * Desenvolvimento em C/C++ e Python
+
+
 ===========================================
 
 ### ᯓ Linguagens
