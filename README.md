@@ -21,12 +21,12 @@ no_momento = {
 ```
 ===
 
-### ᯓ   $\textcolor{#D8B4FE}{\text{Linguagens}}$ 
+### $\textcolor{#D8B4FE}{\text{ᯓ Linguagens}}$ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### ᯓ   $\textcolor{#D8B4FE}{\text{Hardware e Embarcados}}$ 
+### $\textcolor{#D8B4FE}{\text{ᯓ Hardware e Embarcados}}$ 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
