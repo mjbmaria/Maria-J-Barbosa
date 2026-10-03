@@ -1,6 +1,7 @@
 # Me chamo  $\textcolor{purple}{\text{Maria J. Barbosa}}$ !!
 
-![CIn UFPE](https://img.shields.io/badge/CIn-UFPE-EE3124?style=flat-square&labelColor=222222) Engenharia da Computação  
+<img src="https://github.com/user-attachments/assets/c5a2d59b-ef19-4587-b868-d5f8bc534dec" height="22" align="center"> **Engenharia da Computação** — CIn/UFPE
+
 
 ===========================================
 
