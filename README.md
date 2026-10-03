@@ -30,4 +30,4 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ## $\textcolor{#D8B4FE}{\text{Contato}}$ 
-$\textcolor{#D8B4FE}{\text{email:}}$ mjbm@cin.ufpe.br
+email: mjbm@cin.ufpe.br
