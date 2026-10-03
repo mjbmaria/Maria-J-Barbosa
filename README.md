@@ -28,3 +28,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+## $\textcolor{#D8B4FE}{\text{Contato}}$ 
+$\textcolor{#D8B4FE}{\text{email:}}$ mjbm@cin.ufpe.br
